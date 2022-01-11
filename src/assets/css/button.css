@@ -1,0 +1,14 @@
+.btn {
+  background-color: black;
+  color: white;
+  height: 2.5rem;
+  line-height: 2.3;
+  width: 8.5rem;
+  text-align: center;
+  font-weight: 700;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=button.css.map */
